@@ -30,6 +30,7 @@ Open the index.html file in your browser to view the application.
 
 # Usage
 Enter a country name in the search bar.
+
 The app will display the relevant information about the country.
 
 # Demo 
