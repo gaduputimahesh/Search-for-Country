@@ -36,8 +36,7 @@ The app will display the relevant information about the country.
 
 ![Screenshot (173)](https://github.com/user-attachments/assets/701b6c6e-6f93-43c9-9fd5-93ca0c9fdfd6)
 
-
-
+⭐ #Star this repo if you find it useful! ⭐
 
 
 
