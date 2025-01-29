@@ -25,12 +25,10 @@ To run this project locally:
 Navigate to the project folder:
 
 bash
-Copy
-Edit
 cd SearchCountry
 Open the index.html file in your browser to view the application.
 
-Usage
+# Usage
 Enter a country name in the search bar.
 The app will display the relevant information about the country.
 
